@@ -55,18 +55,3 @@ textbox = Entry(mainframe, textvariable=var1).grid(row=2,column=3)
 b=Button(mainframe,text='Translate',command=translate).grid(row=3,column=1,columnspan=3)
 
 root.mainloop()
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Language
